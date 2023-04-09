@@ -34,7 +34,7 @@ _In this application, you experience how powerful the term API is and you also g
 
 
 ## WebPage Link
-https://emzzy241.github.io/The-great-giphy-app-1.3.0/
+https://emzzy241.github.io/great-giphy/
 
 ## Detected Bugs/ Issues
 * _No detected bugs_
